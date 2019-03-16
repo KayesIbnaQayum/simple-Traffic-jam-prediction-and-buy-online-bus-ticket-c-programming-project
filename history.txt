@@ -1,0 +1,8 @@
+a 1
+a 5
+kayes 1
+kayes 1
+kayes 1
+kayes 2
+kayes 5
+protik 1
